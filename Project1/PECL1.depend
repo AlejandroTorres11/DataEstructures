@@ -1,0 +1,1619 @@
+# depslib dependency file v1.0
+1698421560 source:c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\pedido.cpp
+	"Pedido.hpp"
+	<iostream>
+	<string>
+	"Pedido.hpp"
+	<iostream>
+	<string>
+
+1698120952 source:c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\nodo.cpp
+	"Nodo.hpp"
+	"Nodo.hpp"
+
+1698120416 c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\nodo.hpp
+	<iostream>
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	<iostream>
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+
+1698474345 source:c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\pila.cpp
+	"Pila.hpp"
+	"Pila.hpp"
+
+1698318410 c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\pila.hpp
+	"NodoMesas.hpp"
+	"Mesa.hpp"
+	"NodoMesas.hpp"
+	"Mesa.hpp"
+
+1698120950 source:c:\users\david\downloads\pecl1\nodo.cpp
+	"Nodo.hpp"
+	"Nodo.hpp"
+
+1698120414 c:\users\david\downloads\pecl1\nodo.hpp
+	<iostream>
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	<iostream>
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+
+1698421560 source:c:\users\david\downloads\pecl1\pedido.cpp
+	"Pedido.hpp"
+	<iostream>
+	<string>
+	"Pedido.hpp"
+	<iostream>
+	<string>
+
+1698474346 source:c:\users\david\downloads\pecl1\pila.cpp
+	"Pila.hpp"
+	"Pila.hpp"
+
+1698318410 c:\users\david\downloads\pecl1\pila.hpp
+	"NodoMesas.hpp"
+	"Mesa.hpp"
+	"NodoMesas.hpp"
+	"Mesa.hpp"
+
+1698121970 source:c:\users\david\downloads\pecl1\colas.cpp
+	"Cola.hpp"
+	"Cola.hpp"
+
+1698121987 c:\users\david\downloads\pecl1\cola.hpp
+	"Nodo.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Nodo.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+
+1698146607 source:c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\colas.cpp
+	"Cola.hpp"
+	<string>
+	"Cola.hpp"
+	<string>
+
+1698145788 c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\cola.hpp
+	"Nodo.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Nodo.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+
+1698403440 c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\reserva.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Pila.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Pila.hpp"
+
+1698161392 c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\mesa.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1698404966 c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\pedido.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Reserva.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Reserva.hpp"
+
+1698507574 source:c:\users\david\downloads\pecl1\main.cpp
+	<iostream>
+	<string>
+	"Restaurante.hpp"
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+
+1698506557 c:\users\david\downloads\pecl1\restaurante.hpp
+	"ColaReservas.hpp"
+	"ColaPedidos.hpp"
+	"Reserva.hpp"
+	"Pila.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+
+1698403440 c:\users\david\downloads\pecl1\reserva.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Pila.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Pila.hpp"
+
+1698161392 c:\users\david\downloads\pecl1\mesa.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1698404966 c:\users\david\downloads\pecl1\pedido.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Reserva.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Reserva.hpp"
+
+1698161392 source:c:\users\david\downloads\pecl1\mesa.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+
+1698508006 source:c:\users\david\downloads\pecl1\restaurante.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"ColaReservas.hpp"
+	"Pila.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"Restaurante.hpp"
+
+1698421368 source:c:\users\david\downloads\pecl1\reserva.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+	"Pila.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+	"Pila.hpp"
+
+1698480994 source:c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\main.cpp
+	<iostream>
+	<string>
+	"Restaurante.hpp"
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+	<iostream>
+	<string>
+	"Restaurante.hpp"
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+
+1698477483 c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\restaurante.hpp
+	"ColaReservas.hpp"
+	"ColaPedidos.hpp"
+	"Reserva.hpp"
+	"Pila.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"ColaReservas.hpp"
+	"ColaPedidos.hpp"
+	"Reserva.hpp"
+	"Pila.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+
+1698161392 source:c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\mesa.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+
+1698421368 source:c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\reserva.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+	"Pila.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+	"Pila.hpp"
+
+1698483376 source:c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\restaurante.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"ColaReservas.hpp"
+	"Pila.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"Restaurante.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"ColaReservas.hpp"
+	"Pila.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"Restaurante.hpp"
+
+1698146608 source:c:\users\usuario\onedrive\escritorio\pecl1\pecl1\colas.cpp
+	"Cola.hpp"
+	<string>
+	"Cola.hpp"
+	<string>
+
+1698145790 c:\users\usuario\onedrive\escritorio\pecl1\pecl1\cola.hpp
+	"Nodo.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Nodo.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+
+1698153960 c:\users\usuario\onedrive\escritorio\pecl1\pecl1\nodo.hpp
+	<iostream>
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	<iostream>
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+
+1698145702 c:\users\usuario\onedrive\escritorio\pecl1\pecl1\reserva.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+
+1698153849 c:\users\usuario\onedrive\escritorio\pecl1\pecl1\mesa.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Pila.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Pila.hpp"
+
+1698145198 c:\users\usuario\onedrive\escritorio\pecl1\pecl1\pedido.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1698151576 source:c:\users\usuario\onedrive\escritorio\pecl1\pecl1\main.cpp
+	<iostream>
+	<string>
+	"Restaurante.hpp"
+	"Reserva.hpp"
+	"Mesa.hpp"
+	<iostream>
+	<string>
+	"Restaurante.hpp"
+	"Reserva.hpp"
+	"Mesa.hpp"
+
+1698149454 c:\users\usuario\onedrive\escritorio\pecl1\pecl1\restaurante.hpp
+	"Cola.hpp"
+	"Reserva.hpp"
+	"Pila.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"Cola.hpp"
+	"Reserva.hpp"
+	"Pila.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+
+1698153996 c:\users\usuario\onedrive\escritorio\pecl1\pecl1\pila.hpp
+	"Nodo.hpp"
+	"Mesa.hpp"
+	"Nodo.hpp"
+	"Mesa.hpp"
+
+1698153800 source:c:\users\usuario\onedrive\escritorio\pecl1\pecl1\mesa.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Pila.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Pila.hpp"
+
+1698120952 source:c:\users\usuario\onedrive\escritorio\pecl1\pecl1\nodo.cpp
+	"Nodo.hpp"
+	"Nodo.hpp"
+
+1698145204 source:c:\users\usuario\onedrive\escritorio\pecl1\pecl1\pedido.cpp
+	"Pedido.hpp"
+	<iostream>
+	<string>
+	"Pedido.hpp"
+	<iostream>
+	<string>
+
+1698121174 source:c:\users\usuario\onedrive\escritorio\pecl1\pecl1\pila.cpp
+	"Pila.hpp"
+	"Pila.hpp"
+
+1698153598 source:c:\users\usuario\onedrive\escritorio\pecl1\pecl1\reserva.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+	"Cola.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+	"Cola.hpp"
+
+1698149484 source:c:\users\usuario\onedrive\escritorio\pecl1\pecl1\restaurante.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Cola.hpp"
+	"Pila.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"Restaurante.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Cola.hpp"
+	"Pila.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"Restaurante.hpp"
+
+1698146608 source:c:\users\david\downloads\pecl1\pecl1\colas.cpp
+	"Cola.hpp"
+	<string>
+	"Cola.hpp"
+	<string>
+
+1698145790 c:\users\david\downloads\pecl1\pecl1\cola.hpp
+	"Nodo.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Nodo.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+
+1698153962 c:\users\david\downloads\pecl1\pecl1\nodo.hpp
+	<iostream>
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	<iostream>
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+
+1698145702 c:\users\david\downloads\pecl1\pecl1\reserva.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+
+1698161390 c:\users\david\downloads\pecl1\pecl1\mesa.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1698161107 c:\users\david\downloads\pecl1\pecl1\pila.hpp
+	"NodoMesas.hpp"
+	"Mesa.hpp"
+	"NodoMesas.hpp"
+	"Mesa.hpp"
+
+1698145198 c:\users\david\downloads\pecl1\pecl1\pedido.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1698161390 source:c:\users\david\downloads\pecl1\pecl1\mesa.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+
+1698120952 source:c:\users\david\downloads\pecl1\pecl1\nodo.cpp
+	"Nodo.hpp"
+	"Nodo.hpp"
+
+1698145204 source:c:\users\david\downloads\pecl1\pecl1\pedido.cpp
+	"Pedido.hpp"
+	<iostream>
+	<string>
+	"Pedido.hpp"
+	<iostream>
+	<string>
+
+1698162159 source:c:\users\david\downloads\pecl1\pecl1\pila.cpp
+	"Pila.hpp"
+	"Pila.hpp"
+
+1698164882 source:c:\users\david\downloads\pecl1\pecl1\reserva.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+
+1698165366 source:c:\users\david\downloads\pecl1\pecl1\restaurante.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"ColaReservas.hpp"
+	"Pila.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"Restaurante.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"ColaReservas.hpp"
+	"Pila.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"Restaurante.hpp"
+
+1698165298 c:\users\david\downloads\pecl1\pecl1\restaurante.hpp
+	"ColaReservas.hpp"
+	"ColaPedidos.hpp"
+	"Reserva.hpp"
+	"Pila.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"ColaReservas.hpp"
+	"ColaPedidos.hpp"
+	"Reserva.hpp"
+	"Pila.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+
+1698162305 c:\users\david\downloads\pecl1\pecl1\nodomesas.hpp
+	<iostream>
+	"Mesa.hpp"
+	<iostream>
+	"Mesa.hpp"
+
+1698161281 source:c:\users\david\downloads\pecl1\pecl1\colapedidos.cpp
+	"ColaPedidos.hpp"
+	<string>
+	"ColaPedidos.hpp"
+	<string>
+
+1698161107 c:\users\david\downloads\pecl1\pecl1\colapedidos.hpp
+	"NodoPedidos.hpp"
+	"Pedido.hpp"
+	"NodoPedidos.hpp"
+	"Pedido.hpp"
+
+1698161694 c:\users\david\downloads\pecl1\pecl1\nodopedidos.hpp
+	<iostream>
+	"Pedido.hpp"
+	<iostream>
+	"Pedido.hpp"
+
+1698165456 source:c:\users\david\downloads\pecl1\pecl1\main.cpp
+	<iostream>
+	<string>
+	"Restaurante.hpp"
+	"Reserva.hpp"
+	"Mesa.hpp"
+	<iostream>
+	<string>
+	"Restaurante.hpp"
+	"Reserva.hpp"
+	"Mesa.hpp"
+
+1698161433 source:c:\users\david\downloads\pecl1\pecl1\colareservas.cpp
+	"ColaReservas.hpp"
+	<string>
+	"ColaReservas.hpp"
+	<string>
+
+1698161105 c:\users\david\downloads\pecl1\pecl1\colareservas.hpp
+	"NodoReservas.hpp"
+	"Reserva.hpp"
+	"NodoReservas.hpp"
+	"Reserva.hpp"
+
+1698161694 c:\users\david\downloads\pecl1\pecl1\nodoreservas.hpp
+	<iostream>
+	"Reserva.hpp"
+	<iostream>
+	"Reserva.hpp"
+
+1698161993 source:c:\users\david\downloads\pecl1\pecl1\nodomesas.cpp
+	"NodoMesas.hpp"
+	"NodoMesas.hpp"
+
+1698162019 source:c:\users\david\downloads\pecl1\pecl1\nodopedidos.cpp
+	"NodoPedidos.hpp"
+	"NodoPedidos.hpp"
+
+1698162019 source:c:\users\david\downloads\pecl1\pecl1\nodoreservas.cpp
+	"NodoReservas.hpp"
+	"NodoReservas.hpp"
+
+1698424566 source:c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\colapedidos.cpp
+	"ColaPedidos.hpp"
+	<string>
+	"ColaPedidos.hpp"
+	<string>
+
+1698424494 c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\colapedidos.hpp
+	"NodoPedidos.hpp"
+	"Pedido.hpp"
+	"NodoPedidos.hpp"
+	"Pedido.hpp"
+
+1698161696 c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\nodopedidos.hpp
+	<iostream>
+	"Pedido.hpp"
+	<iostream>
+	"Pedido.hpp"
+
+1698483306 source:c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\colareservas.cpp
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	<string>
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	<string>
+
+1698483294 c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\colareservas.hpp
+	"NodoReservas.hpp"
+	"Reserva.hpp"
+	"ColaPedidos.hpp"
+	"NodoReservas.hpp"
+	"Reserva.hpp"
+	"ColaPedidos.hpp"
+
+1698161696 c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\nodoreservas.hpp
+	<iostream>
+	"Reserva.hpp"
+	<iostream>
+	"Reserva.hpp"
+
+1698162306 c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\nodomesas.hpp
+	<iostream>
+	"Mesa.hpp"
+	<iostream>
+	"Mesa.hpp"
+
+1698161994 source:c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\nodomesas.cpp
+	"NodoMesas.hpp"
+	"NodoMesas.hpp"
+
+1698162020 source:c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\nodopedidos.cpp
+	"NodoPedidos.hpp"
+	"NodoPedidos.hpp"
+
+1698162020 source:c:\users\alejandro torres\desktop\universidad\estructuras de datos\projectos\pecl1\nodoreservas.cpp
+	"NodoReservas.hpp"
+	"NodoReservas.hpp"
+
+1698424566 source:c:\users\david\downloads\pecl1\colapedidos.cpp
+	"ColaPedidos.hpp"
+	<string>
+	"ColaPedidos.hpp"
+	<string>
+
+1698424494 c:\users\david\downloads\pecl1\colapedidos.hpp
+	"NodoPedidos.hpp"
+	"Pedido.hpp"
+	"NodoPedidos.hpp"
+	"Pedido.hpp"
+
+1698161696 c:\users\david\downloads\pecl1\nodopedidos.hpp
+	<iostream>
+	"Pedido.hpp"
+	<iostream>
+	"Pedido.hpp"
+
+1698489260 source:c:\users\david\downloads\pecl1\colareservas.cpp
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	<string>
+
+1698162306 c:\users\david\downloads\pecl1\nodomesas.hpp
+	<iostream>
+	"Mesa.hpp"
+	<iostream>
+	"Mesa.hpp"
+
+1698483296 c:\users\david\downloads\pecl1\colareservas.hpp
+	"NodoReservas.hpp"
+	"Reserva.hpp"
+	"ColaPedidos.hpp"
+	"NodoReservas.hpp"
+	"Reserva.hpp"
+	"ColaPedidos.hpp"
+
+1698161696 c:\users\david\downloads\pecl1\nodoreservas.hpp
+	<iostream>
+	"Reserva.hpp"
+	<iostream>
+	"Reserva.hpp"
+
+1698161994 source:c:\users\david\downloads\pecl1\nodomesas.cpp
+	"NodoMesas.hpp"
+	"NodoMesas.hpp"
+
+1698162020 source:c:\users\david\downloads\pecl1\nodopedidos.cpp
+	"NodoPedidos.hpp"
+	"NodoPedidos.hpp"
+
+1698162020 source:c:\users\david\downloads\pecl1\nodoreservas.cpp
+	"NodoReservas.hpp"
+	"NodoReservas.hpp"
+
+1698161282 source:c:\users\user\desktop\pecl1 (18) (1)\pecl1\colapedidos.cpp
+	"ColaPedidos.hpp"
+	<string>
+	"ColaPedidos.hpp"
+	<string>
+
+1698161108 c:\users\user\desktop\pecl1 (18) (1)\pecl1\colapedidos.hpp
+	"NodoPedidos.hpp"
+	"Pedido.hpp"
+	"NodoPedidos.hpp"
+	"Pedido.hpp"
+
+1698161696 c:\users\user\desktop\pecl1 (18) (1)\pecl1\nodopedidos.hpp
+	<iostream>
+	"Pedido.hpp"
+	<iostream>
+	"Pedido.hpp"
+
+1698404964 c:\users\user\desktop\pecl1 (18) (1)\pecl1\pedido.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Reserva.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Reserva.hpp"
+
+1698404163 source:c:\users\user\desktop\pecl1 (18) (1)\pecl1\main.cpp
+	<iostream>
+	<string>
+	"Restaurante.hpp"
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+	<iostream>
+	<string>
+	"Restaurante.hpp"
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+
+1698404284 c:\users\user\desktop\pecl1 (18) (1)\pecl1\restaurante.hpp
+	"ColaReservas.hpp"
+	"ColaPedidos.hpp"
+	"Reserva.hpp"
+	"Pila.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"ColaReservas.hpp"
+	"ColaPedidos.hpp"
+	"Reserva.hpp"
+	"Pila.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+
+1698403525 c:\users\user\desktop\pecl1 (18) (1)\pecl1\colareservas.hpp
+	"NodoReservas.hpp"
+	"Reserva.hpp"
+	"ColaPedidos.hpp"
+	"NodoReservas.hpp"
+	"Reserva.hpp"
+	"ColaPedidos.hpp"
+
+1698161696 c:\users\user\desktop\pecl1 (18) (1)\pecl1\nodoreservas.hpp
+	<iostream>
+	"Reserva.hpp"
+	<iostream>
+	"Reserva.hpp"
+
+1698403439 c:\users\user\desktop\pecl1 (18) (1)\pecl1\reserva.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Pila.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Pila.hpp"
+
+1698161392 c:\users\user\desktop\pecl1 (18) (1)\pecl1\mesa.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1698318410 c:\users\user\desktop\pecl1 (18) (1)\pecl1\pila.hpp
+	"NodoMesas.hpp"
+	"Mesa.hpp"
+	"NodoMesas.hpp"
+	"Mesa.hpp"
+
+1698162306 c:\users\user\desktop\pecl1 (18) (1)\pecl1\nodomesas.hpp
+	<iostream>
+	"Mesa.hpp"
+	<iostream>
+	"Mesa.hpp"
+
+1698161392 source:c:\users\user\desktop\pecl1 (18) (1)\pecl1\mesa.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+
+1698161994 source:c:\users\user\desktop\pecl1 (18) (1)\pecl1\nodomesas.cpp
+	"NodoMesas.hpp"
+	"NodoMesas.hpp"
+
+1698162020 source:c:\users\user\desktop\pecl1 (18) (1)\pecl1\nodopedidos.cpp
+	"NodoPedidos.hpp"
+	"NodoPedidos.hpp"
+
+1698162020 source:c:\users\user\desktop\pecl1 (18) (1)\pecl1\nodoreservas.cpp
+	"NodoReservas.hpp"
+	"NodoReservas.hpp"
+
+1698403858 source:c:\users\user\desktop\pecl1 (18) (1)\pecl1\pedido.cpp
+	"Pedido.hpp"
+	<iostream>
+	<string>
+	"Pedido.hpp"
+	<iostream>
+	<string>
+
+1698329166 source:c:\users\user\desktop\pecl1 (18) (1)\pecl1\pila.cpp
+	"Pila.hpp"
+	"Pila.hpp"
+
+1698403902 source:c:\users\user\desktop\pecl1 (18) (1)\pecl1\reserva.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+	"Pila.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+	"Pila.hpp"
+
+1698404680 source:c:\users\user\desktop\pecl1 (18) (1)\pecl1\restaurante.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"ColaReservas.hpp"
+	"Pila.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"Restaurante.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"ColaReservas.hpp"
+	"Pila.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"Restaurante.hpp"
+
+1698403808 source:c:\users\user\desktop\pecl1 (18) (1)\pecl1\colareservas.cpp
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	<string>
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	<string>
+
+1698424564 source:c:\users\david\downloads\pecl1 (18) (1)\pecl1\colapedidos.cpp
+	"ColaPedidos.hpp"
+	<string>
+	"ColaPedidos.hpp"
+	<string>
+
+1698424493 c:\users\david\downloads\pecl1 (18) (1)\pecl1\colapedidos.hpp
+	"NodoPedidos.hpp"
+	"Pedido.hpp"
+	"NodoPedidos.hpp"
+	"Pedido.hpp"
+
+1698161696 c:\users\david\downloads\pecl1 (18) (1)\pecl1\nodopedidos.hpp
+	<iostream>
+	"Pedido.hpp"
+	<iostream>
+	"Pedido.hpp"
+
+1698404966 c:\users\david\downloads\pecl1 (18) (1)\pecl1\pedido.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Reserva.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Reserva.hpp"
+
+1698161392 c:\users\david\downloads\pecl1 (18) (1)\pecl1\mesa.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1698403440 c:\users\david\downloads\pecl1 (18) (1)\pecl1\reserva.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Pila.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Pila.hpp"
+
+1698318410 c:\users\david\downloads\pecl1 (18) (1)\pecl1\pila.hpp
+	"NodoMesas.hpp"
+	"Mesa.hpp"
+	"NodoMesas.hpp"
+	"Mesa.hpp"
+
+1698162306 c:\users\david\downloads\pecl1 (18) (1)\pecl1\nodomesas.hpp
+	<iostream>
+	"Mesa.hpp"
+	<iostream>
+	"Mesa.hpp"
+
+1698419641 source:c:\users\david\downloads\pecl1 (18) (1)\pecl1\colareservas.cpp
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	<string>
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	<string>
+
+1698418891 c:\users\david\downloads\pecl1 (18) (1)\pecl1\colareservas.hpp
+	"NodoReservas.hpp"
+	"Reserva.hpp"
+	"ColaPedidos.hpp"
+	"NodoReservas.hpp"
+	"Reserva.hpp"
+	"ColaPedidos.hpp"
+
+1698161696 c:\users\david\downloads\pecl1 (18) (1)\pecl1\nodoreservas.hpp
+	<iostream>
+	"Reserva.hpp"
+	<iostream>
+	"Reserva.hpp"
+
+1698421332 source:c:\users\david\downloads\pecl1 (18) (1)\pecl1\main.cpp
+	<iostream>
+	<string>
+	"Restaurante.hpp"
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+	<iostream>
+	<string>
+	"Restaurante.hpp"
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+
+1698421073 c:\users\david\downloads\pecl1 (18) (1)\pecl1\restaurante.hpp
+	"ColaReservas.hpp"
+	"ColaPedidos.hpp"
+	"Reserva.hpp"
+	"Pila.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"ColaReservas.hpp"
+	"ColaPedidos.hpp"
+	"Reserva.hpp"
+	"Pila.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+
+1698161392 source:c:\users\david\downloads\pecl1 (18) (1)\pecl1\mesa.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+
+1698161994 source:c:\users\david\downloads\pecl1 (18) (1)\pecl1\nodomesas.cpp
+	"NodoMesas.hpp"
+	"NodoMesas.hpp"
+
+1698162020 source:c:\users\david\downloads\pecl1 (18) (1)\pecl1\nodopedidos.cpp
+	"NodoPedidos.hpp"
+	"NodoPedidos.hpp"
+
+1698162020 source:c:\users\david\downloads\pecl1 (18) (1)\pecl1\nodoreservas.cpp
+	"NodoReservas.hpp"
+	"NodoReservas.hpp"
+
+1698421559 source:c:\users\david\downloads\pecl1 (18) (1)\pecl1\pedido.cpp
+	"Pedido.hpp"
+	<iostream>
+	<string>
+	"Pedido.hpp"
+	<iostream>
+	<string>
+
+1698415899 source:c:\users\david\downloads\pecl1 (18) (1)\pecl1\pila.cpp
+	"Pila.hpp"
+	"Pila.hpp"
+
+1698421366 source:c:\users\david\downloads\pecl1 (18) (1)\pecl1\reserva.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+	"Pila.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+	"Pila.hpp"
+
+1698425089 source:c:\users\david\downloads\pecl1 (18) (1)\pecl1\restaurante.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"ColaReservas.hpp"
+	"Pila.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"Restaurante.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"ColaReservas.hpp"
+	"Pila.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"Restaurante.hpp"
+
+1698420966 source:c:\users\maria\onedrive\escritorio\pecl1\colapedidos.cpp
+	"ColaPedidos.hpp"
+	<string>
+
+1698420894 c:\users\maria\onedrive\escritorio\pecl1\colapedidos.hpp
+	"NodoPedidos.hpp"
+	"Pedido.hpp"
+
+1698158096 c:\users\maria\onedrive\escritorio\pecl1\nodopedidos.hpp
+	<iostream>
+	"Pedido.hpp"
+
+1701344736 c:\users\maria\onedrive\escritorio\pecl1\pedido.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Reserva.hpp"
+
+1701684814 c:\users\maria\onedrive\escritorio\pecl1\mesa.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1701676932 c:\users\maria\onedrive\escritorio\pecl1\reserva.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+	"Pila.hpp"
+
+1698314810 c:\users\maria\onedrive\escritorio\pecl1\pila.hpp
+	"NodoMesas.hpp"
+	"Mesa.hpp"
+
+1698158706 c:\users\maria\onedrive\escritorio\pecl1\nodomesas.hpp
+	<iostream>
+	"Mesa.hpp"
+
+1701338553 source:c:\users\maria\onedrive\escritorio\pecl1\colareservas.cpp
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	<string>
+
+1698479696 c:\users\maria\onedrive\escritorio\pecl1\colareservas.hpp
+	"NodoReservas.hpp"
+	"Reserva.hpp"
+	"ColaPedidos.hpp"
+
+1698158096 c:\users\maria\onedrive\escritorio\pecl1\nodoreservas.hpp
+	<iostream>
+	"Reserva.hpp"
+
+1701681388 source:c:\users\maria\onedrive\escritorio\pecl1\main.cpp
+	<iostream>
+	<string>
+	"Restaurante.hpp"
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+	"ABB.h"
+
+1698502958 c:\users\maria\onedrive\escritorio\pecl1\restaurante.hpp
+	"ColaReservas.hpp"
+	"ColaPedidos.hpp"
+	"Reserva.hpp"
+	"Pila.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+
+1701680389 source:c:\users\maria\onedrive\escritorio\pecl1\mesa.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+
+1698158394 source:c:\users\maria\onedrive\escritorio\pecl1\nodomesas.cpp
+	"NodoMesas.hpp"
+
+1698158420 source:c:\users\maria\onedrive\escritorio\pecl1\nodopedidos.cpp
+	"NodoPedidos.hpp"
+
+1698158420 source:c:\users\maria\onedrive\escritorio\pecl1\nodoreservas.cpp
+	"NodoReservas.hpp"
+
+1701344678 source:c:\users\maria\onedrive\escritorio\pecl1\pedido.cpp
+	"Pedido.hpp"
+	<iostream>
+	<string>
+
+1698470746 source:c:\users\maria\onedrive\escritorio\pecl1\pila.cpp
+	"Pila.hpp"
+
+1701676915 source:c:\users\maria\onedrive\escritorio\pecl1\reserva.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+	"Pila.hpp"
+
+1701683336 source:c:\users\maria\onedrive\escritorio\pecl1\restaurante.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"ColaReservas.hpp"
+	"Pila.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"Restaurante.hpp"
+
+1701683746 source:c:\users\maria\onedrive\escritorio\pecl1\abb.cpp
+	"ABB.h"
+
+1701681390 c:\users\maria\onedrive\escritorio\pecl1\abb.h
+	"NodoArbol.hpp"
+	<iostream>
+	<string>
+
+1701343998 c:\users\maria\onedrive\escritorio\pecl1\nodoarbol.hpp
+	<iostream>
+	"Mesa.hpp"
+
+1701681390 source:c:\users\maria\onedrive\escritorio\pecl1\nodoarbol.cpp
+	"NodoArbol.hpp"
+
+1701344815 source:c:\users\maria\onedrive\escritorio\pecl1\nodolista.cpp
+	"NodoLista.hpp"
+
+1701684394 c:\users\maria\onedrive\escritorio\pecl1\nodolista.hpp
+	<iostream>
+	"Pedido.hpp"
+
+1701345750 source:c:\users\maria\onedrive\escritorio\pecl1\lista.cpp
+	"Lista.hpp"
+
+1701684081 c:\users\maria\onedrive\escritorio\pecl1\lista.hpp
+	"NodoLista.hpp"
+	<iostream>
+	"Pedido.hpp"
+
+1701676310 source:c:\users\maria\onedrive\escritorio\pecl1\nodoldobles.cpp
+	"NodoLDobles.hpp"
+
+1701676307 c:\users\maria\onedrive\escritorio\pecl1\nodoldobles.hpp
+	<iostream>
+	"Reserva.hpp"
+
+1701677432 source:c:\users\maria\onedrive\escritorio\pecl1\listas_dobles.cpp
+	"listas_dobles.hpp"
+
+1701677417 c:\users\maria\onedrive\escritorio\pecl1\listas_dobles.hpp
+	"NodoLDobles.hpp"
+	<iostream>
+
+1701683748 source:c:\users\david\onedrive\escritorio\pecl1\abb.cpp
+	"ABB.h"
+
+1701681392 c:\users\david\onedrive\escritorio\pecl1\abb.h
+	"NodoArbol.hpp"
+	<iostream>
+	<string>
+
+1701344000 c:\users\david\onedrive\escritorio\pecl1\nodoarbol.hpp
+	<iostream>
+	"Mesa.hpp"
+
+1701794215 c:\users\david\onedrive\escritorio\pecl1\mesa.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Lista.hpp"
+
+1698417366 source:c:\users\david\onedrive\escritorio\pecl1\colapedidos.cpp
+	"ColaPedidos.hpp"
+	<string>
+
+1698417294 c:\users\david\onedrive\escritorio\pecl1\colapedidos.hpp
+	"NodoPedidos.hpp"
+	"Pedido.hpp"
+
+1698154496 c:\users\david\onedrive\escritorio\pecl1\nodopedidos.hpp
+	<iostream>
+	"Pedido.hpp"
+
+1701797550 c:\users\david\onedrive\escritorio\pecl1\pedido.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+
+1701794828 c:\users\david\onedrive\escritorio\pecl1\reserva.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1698311210 c:\users\david\onedrive\escritorio\pecl1\pila.hpp
+	"NodoMesas.hpp"
+	"Mesa.hpp"
+
+1698155106 c:\users\david\onedrive\escritorio\pecl1\nodomesas.hpp
+	<iostream>
+	"Mesa.hpp"
+
+1701338554 source:c:\users\david\onedrive\escritorio\pecl1\colareservas.cpp
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	<string>
+
+1701795152 c:\users\david\onedrive\escritorio\pecl1\colareservas.hpp
+	"NodoReservas.hpp"
+	"Reserva.hpp"
+	"ColaPedidos.hpp"
+
+1698154496 c:\users\david\onedrive\escritorio\pecl1\nodoreservas.hpp
+	<iostream>
+	"Reserva.hpp"
+
+1701797931 source:c:\users\david\onedrive\escritorio\pecl1\lista.cpp
+	"Lista.hpp"
+
+1701798372 c:\users\david\onedrive\escritorio\pecl1\lista.hpp
+	"NodoLista.hpp"
+	<iostream>
+	"Pedido.hpp"
+
+1701684396 c:\users\david\onedrive\escritorio\pecl1\nodolista.hpp
+	<iostream>
+	"Pedido.hpp"
+
+1701796686 source:c:\users\david\onedrive\escritorio\pecl1\listas_dobles.cpp
+	"listas_dobles.hpp"
+
+1701796160 c:\users\david\onedrive\escritorio\pecl1\listas_dobles.hpp
+	"NodoLDobles.hpp"
+	<iostream>
+
+1701797078 c:\users\david\onedrive\escritorio\pecl1\nodoldobles.hpp
+	<iostream>
+	"Reserva.hpp"
+
+1701798372 source:c:\users\david\onedrive\escritorio\pecl1\main.cpp
+	<iostream>
+	<string>
+	"Restaurante.hpp"
+	"ListasDobles.hpp"
+	"Mesa.hpp"
+	"ABB.h"
+
+1701795231 c:\users\david\onedrive\escritorio\pecl1\restaurante.hpp
+	"Reserva.hpp"
+	"Pila.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+
+1701797596 source:c:\users\david\onedrive\escritorio\pecl1\mesa.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+
+1701681392 source:c:\users\david\onedrive\escritorio\pecl1\nodoarbol.cpp
+	"NodoArbol.hpp"
+
+1701676312 source:c:\users\david\onedrive\escritorio\pecl1\nodoldobles.cpp
+	"NodoLDobles.hpp"
+
+1701344816 source:c:\users\david\onedrive\escritorio\pecl1\nodolista.cpp
+	"NodoLista.hpp"
+
+1698154794 source:c:\users\david\onedrive\escritorio\pecl1\nodomesas.cpp
+	"NodoMesas.hpp"
+
+1698154820 source:c:\users\david\onedrive\escritorio\pecl1\nodopedidos.cpp
+	"NodoPedidos.hpp"
+
+1698154820 source:c:\users\david\onedrive\escritorio\pecl1\nodoreservas.cpp
+	"NodoReservas.hpp"
+
+1701794778 source:c:\users\david\onedrive\escritorio\pecl1\pedido.cpp
+	"Pedido.hpp"
+	<iostream>
+	<string>
+
+1698467146 source:c:\users\david\onedrive\escritorio\pecl1\pila.cpp
+	"Pila.hpp"
+
+1701795397 source:c:\users\david\onedrive\escritorio\pecl1\reserva.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+	"Pila.hpp"
+
+1701795129 source:c:\users\david\onedrive\escritorio\pecl1\restaurante.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Pila.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"Restaurante.hpp"
+
+1701796956 source:c:\users\david\onedrive\escritorio\pecl1\listasdobles.cpp
+	"ListasDobles.hpp"
+
+1701798372 c:\users\david\onedrive\escritorio\pecl1\listasdobles.hpp
+	"NodoLDobles.hpp"
+	<iostream>
+
+1701798917 source:c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\lista.cpp
+	"Lista.hpp"
+
+1701798917 c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\lista.hpp
+	"NodoLista.hpp"
+	<iostream>
+	"Pedido.hpp"
+
+1701798918 c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\nodolista.hpp
+	<iostream>
+	"Pedido.hpp"
+
+1701798918 c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\pedido.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+
+1701798918 c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\reserva.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1701798917 source:c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\listasdobles.cpp
+	"ListasDobles.hpp"
+
+1701798917 c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\listasdobles.hpp
+	"NodoLDobles.hpp"
+	<iostream>
+
+1701798917 c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\nodoldobles.hpp
+	<iostream>
+	"Reserva.hpp"
+
+1701798917 source:c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\mesa.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Mesa.hpp"
+
+1701798917 c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\mesa.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Lista.hpp"
+
+1701798917 source:c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\nodoarbol.cpp
+	"NodoArbol.hpp"
+
+1701798917 c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\nodoarbol.hpp
+	<iostream>
+	"Mesa.hpp"
+
+1701798917 source:c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\nodoldobles.cpp
+	"NodoLDobles.hpp"
+
+1701798917 source:c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\nodolista.cpp
+	"NodoLista.hpp"
+
+1701798918 source:c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\pedido.cpp
+	"Pedido.hpp"
+	<iostream>
+	<string>
+
+1701798918 source:c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\reserva.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Reserva.hpp"
+	"ColaReservas.hpp"
+	"Mesa.hpp"
+	"Pila.hpp"
+
+1701798917 c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\colareservas.hpp
+	"NodoReservas.hpp"
+	"Reserva.hpp"
+	"ColaPedidos.hpp"
+
+1701798918 c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\nodoreservas.hpp
+	<iostream>
+	"Reserva.hpp"
+
+1701798917 c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\colapedidos.hpp
+	"NodoPedidos.hpp"
+	"Pedido.hpp"
+
+1701798918 c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\nodopedidos.hpp
+	<iostream>
+	"Pedido.hpp"
+
+1701798918 c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\pila.hpp
+	"NodoMesas.hpp"
+	"Mesa.hpp"
+
+1701798918 c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\nodomesas.hpp
+	<iostream>
+	"Mesa.hpp"
+
+1701798919 source:c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\restaurante.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Pila.hpp"
+	"Reserva.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+	"Restaurante.hpp"
+
+1701798919 c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\restaurante.hpp
+	"Reserva.hpp"
+	"Pila.hpp"
+	"Pedido.hpp"
+	"Mesa.hpp"
+
+1701800765 source:c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\abb.cpp
+	"ABB.h"
+
+1701800786 c:\users\aleja\desktop\estructuras de datos\projectos\pecl1\abb.h
+	"NodoArbol.hpp"
+	<iostream>
+	<string>
+

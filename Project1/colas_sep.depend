@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1445585294 source:c:\users\profesor\documents\colas_sep\colas.cpp
+	"colas.h"
+
+1445585460 c:\users\profesor\documents\colas_sep\colas.h
+	<iostream>
+
+1445585249 source:c:\users\profesor\documents\colas_sep\main.cpp
+	<iostream>
+	<stdlib.h>
+	"colas.h"
+
+1445585296 source:e:\780009 - estructuras de datos\mio\prog_cpp\colas_sep\colas.cpp
+	"colas.h"
+
+1445596134 e:\780009 - estructuras de datos\mio\prog_cpp\colas_sep\colas.h
+	<iostream>
+
+1445586384 source:e:\780009 - estructuras de datos\mio\prog_cpp\colas_sep\main.cpp
+	<iostream>
+	<stdlib.h>
+	"colas.h"
+
+1445607490 source:e:\ejemplos c++\colas_sep\colas.cpp
+	"colas.h"
+
+1445603334 e:\ejemplos c++\colas_sep\colas.h
+	<iostream>
+
+1445604920 source:e:\ejemplos c++\colas_sep\main.cpp
+	<iostream>
+	<stdlib.h>
+	"colas.h"
+
+1445611090 source:c:\users\uah\dropbox (personal)\asignaturas 17-18\eedd\ejemplos c++\4_ejemplos_clase\colas_sep\colas.cpp
+	"colas.h"
+
+1477042646 c:\users\uah\dropbox (personal)\asignaturas 17-18\eedd\ejemplos c++\4_ejemplos_clase\colas_sep\colas.h
+	<iostream>
+

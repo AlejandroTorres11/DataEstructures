@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1697441688 source:c:\users\aleja\desktop\estructuras de datos\projectos\pilasconclases\nodo.cpp
+	"Nodo.hpp"
+
+1697618726 c:\users\aleja\desktop\estructuras de datos\projectos\pilasconclases\nodo.hpp
+	<iostream>
+
+1697618736 source:c:\users\aleja\desktop\estructuras de datos\projectos\pilasconclases\main.cpp
+	"Pila.hpp"
+
+1697442035 c:\users\aleja\desktop\estructuras de datos\projectos\pilasconclases\pila.hpp
+	"Nodo.hpp"
+
